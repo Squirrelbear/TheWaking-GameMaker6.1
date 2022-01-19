@@ -4,7 +4,7 @@ A 3D zombie shooter developed using Game Maker 6.1 in 2006 in collaboration with
  
 - ([Youtube Demo](https://youtu.be/5rIMB6ml8nU))
 
-<center><img src="./images/image01.jpg" height="150"> <img src="./images/image02.jpg" height="150"> <img src="./images/image03.jpg" height="150"></center>
+<img src="./images/image01.jpg"> <img src="./images/image02.jpg"> <img src="./images/image03.jpg">
  
 # Requirements to Open/Run/Compile
 
