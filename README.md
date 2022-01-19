@@ -3,6 +3,8 @@
 A 3D zombie shooter developed using Game Maker 6.1 in 2006 in collaboration with Adam Tee for a year 10 school IT project. The game consists of two levels with three cutscenes. The first level has the player escaping an office filled with zombies and then escaping the building. The second level requires the player get to a car to escape the zombies. We made up the name Razor Edge Studios as a studio name that was only used for this one project.
  
 - ([Youtube Demo](https://youtu.be/5rIMB6ml8nU))
+
+<center><img src="./images/image01.jpg" height="150"> <img src="./images/image02.jpg" height="150"> <img src="./images/image03.jpg" height="150"></center>
  
 # Requirements to Open/Run/Compile
 
